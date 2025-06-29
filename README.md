@@ -8,6 +8,5 @@ Me chamo Heloisda Duarte, tenho 26 anos e sou do Rio de Janeiro. Sou estudante d
       <a href="https://github.com/heloisahduarte?tab=followers">
          <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="mailto:alseioh21@gmail.com">
-         <img alt="email" title="alesioh21@gmail.com" src="https://custom-icon-badges.demolab.com/badge/mail-16.svg?logo=mail
-         "/></a>
+         <img alt="email" title="alesioh21@gmail.com" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/></a>
      
