@@ -1,16 +1,16 @@
-## Hi there 👋
+# 😺 Heloisa Duarte
 
-<!--
-**heloisahduarte/heloisahduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora em construção`**
 
-Here are some ideas to get you started:
+Me chamo Heloisda Duarte, tenho 26 anos e sou do Rio de Janeiro. Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focada em Front-End e migrando para Full Stack. Apaixonada por tecnologia, adoro aprender coisas novas e compartilhar conhecimento. Busco evoluir constantemente minhas habilidades e contribuir para projetos que impactem positivamente a comunidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p align="left"> 
+      <a href="https://github.com/heloisahduarte?tab=followers">
+         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="alseioh21@gmail.com">
+         <img alt="total stars" title="alesioh21@gmail.com" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
+         "/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
+         "/></a>   
+   </p>
