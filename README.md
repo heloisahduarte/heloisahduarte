@@ -96,5 +96,5 @@ Me chamo Heloisda Duarte, tenho 26 anos e sou do Rio de Janeiro. Sou estudante d
     alt="GitHub Stats"
     height="200px"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisahduarte&theme=radical&layout=compact&locale=pt-br&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisahduarte&theme=radical&layout=donut&locale=pt-br&langs_count=7" 
 />
