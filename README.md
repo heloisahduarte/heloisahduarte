@@ -26,7 +26,7 @@ Me chamo Heloisda Duarte, tenho 26 anos e sou do Rio de Janeiro. Sou estudante d
          <img
             alt="email" title="alesioh21@gmail.com" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/>
       </a>
-      <a href="mailto:alseioh21@gmail.com">
+      <a href="https://www.linkedin.com/in/heloisa-duarte-56894116a/">
          <img
             alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-177CE1?logo=link"/>
       </a>
