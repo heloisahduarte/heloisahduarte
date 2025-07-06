@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em construção`**
 
-Me chamo Heloisda Duarte, tenho 26 anos e sou do Rio de Janeiro. Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focada em Front-End e migrando para Full Stack. Apaixonada por tecnologia, adoro aprender coisas novas e compartilhar conhecimento. Busco evoluir constantemente minhas habilidades e contribuir para projetos que impactem positivamente a comunidade.
+Me chamo Heloisa Duarte, tenho 26 anos e sou do Rio de Janeiro. Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focada em Front-End e migrando para Full Stack. Apaixonada por tecnologia, adoro aprender coisas novas e compartilhar conhecimento. Busco evoluir constantemente minhas habilidades e contribuir para projetos que impactem positivamente a comunidade.
 
  <p align="left">
    <a href="https://github.com/heloisahduarte?tab=repositories&sort=stargazers">
